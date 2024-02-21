@@ -15,4 +15,4 @@ const concat2 = (firstname:string,lastname:string='N/A') => {
     return firstname+' '+lastname;
 }
 
-console.log(concat1('Ayushi'));
+console.log(concat1('Ayushiii'));
